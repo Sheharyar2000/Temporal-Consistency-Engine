@@ -132,7 +132,7 @@ git clone https://github.com/arianmo477/MultilingualTemporalReasoningTISER.git
 
 ---
 
-## Future Work
+Future Work
 
 - Successor validator
 - Predecessor validator
