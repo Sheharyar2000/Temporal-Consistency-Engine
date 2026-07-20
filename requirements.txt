@@ -1,0 +1,15 @@
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+evaluate
+sentencepiece
+protobuf
+huggingface_hub
+numpy
+pandas
+tqdm
+scikit-learn
+nltk
