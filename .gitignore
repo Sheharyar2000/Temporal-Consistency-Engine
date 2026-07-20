@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Model weights
+*.bin
+*.safetensors
+
+# Google Drive
+drive/
+
+# Temporary outputs
+results/
+outputs/
+logs/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
