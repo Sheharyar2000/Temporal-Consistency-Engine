@@ -7,7 +7,7 @@ A lightweight symbolic post-processing framework that improves temporal reasonin
 ## Architecture
 
 <p align="center">
-  <img src="figures/tce_architecture.png" width="1000">
+  <img src="figures/tce_flow.png" width="1000">
 </p>
 
 ---
