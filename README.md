@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-LLM-yellow.svg)
+![Research](https://img.shields.io/badge/Project-Research-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+
+
 # TISER-Based Temporal Consistency Engine (TCE)
 
 A lightweight symbolic post-processing framework that improves temporal reasoning in Large Language Models by verifying the consistency between the model's generated timeline and its final answer.
