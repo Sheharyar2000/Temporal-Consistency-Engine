@@ -4,6 +4,14 @@ A lightweight symbolic post-processing framework that improves temporal reasonin
 
 ---
 
+## Architecture
+
+<p align="center">
+  <img src="figures/tce_architecture.png" width="1000">
+</p>
+
+---
+
 ## Overview
 
 Large Language Models can often generate a correct temporal reasoning process while still producing an inconsistent final answer.
