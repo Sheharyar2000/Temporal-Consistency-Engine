@@ -104,6 +104,15 @@ This work builds upon the **Multilingual TISER** framework for temporal reasonin
 
 The Temporal Consistency Engine (TCE) is an independent symbolic post-processing extension developed as part of a Deep NLP project.
 
+## How to Run
+
+This project was developed and evaluated in Google Colab.
+
+1. Clone the original Multilingual TISER repository:
+
+```bash
+git clone https://github.com/arianmo477/MultilingualTemporalReasoningTISER.git
+
 ---
 
 ## Future Work
